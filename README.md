@@ -1,4 +1,4 @@
-# Creations Lineup
+# ArchSYS - AI Systems Arhitect Curriculum
 ---
 A complete project lineup featuring a journey from beginner to advanced level
 - A **3 Years** or **156 Weeks** complete roadmap
