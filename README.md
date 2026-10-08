@@ -8,6 +8,7 @@ A complete project lineup featuring a journey from beginner to advanced level
 - The total creation is divided into two languages `Python` and `Go` or `Rust`.
 - Free available resources are enough to complete all the projects and capstones
 ---
+---
 **Year One** - Projects
 1. Build a CLI tool with argparse + asyncio
 2. Solve 50 medium-level problems
@@ -29,6 +30,7 @@ A complete project lineup featuring a journey from beginner to advanced level
 18. RAG system with vector search and reranking
 19. Fine-tune an open model on a curated dataset
 ---
+---
 **Year Two** - Projects
 1. Custom CUDA LayerNorm kernel
 2. Multi-GPU ResNet training
@@ -47,6 +49,7 @@ A complete project lineup featuring a journey from beginner to advanced level
 15. Model router with cache
 16. Defense-in-depth test suite
 --- 
+---
 **Year Three** - Projects
 1. Autoscaled RAG deployment
 2. Multi-region serving prototype
@@ -61,9 +64,11 @@ A complete project lineup featuring a journey from beginner to advanced level
 11. Publish a full architecture RFC
 12. Record a 15-minute architecture talk
 ---
+---
 **Signature Portfolio**
 1. Architecture, threat model, SLOs, cost model (Scope and architect one flagship system)
 2. Public repository, tests, deployment, dashboard (Implement and operate it)
+---
 ---
 The curriculum may not be 100% pure. Checking twice before following will be appreciated. Experienced ones are invited to suggest for betterment of the curriculum. 
 Thank you.
